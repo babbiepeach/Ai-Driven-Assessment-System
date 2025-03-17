@@ -1,0 +1,6 @@
+[submodule "assessment-system-frontend"]
+	path = assessment-system-frontend
+	url = https://github.com/babbiepeach/assessment-system-frontend.git
+[submodule "assessment-system-backend"]
+	path = assessment-system-backend
+	url = https://github.com/babbiepeach/assessment-system-backend.git
