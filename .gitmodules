@@ -1,6 +1,6 @@
 [submodule "assessment-system-frontend"]
 	path = assessment-system-frontend
 	url = https://github.com/babbiepeach/assessment-system-frontend.git
-[submodule "assessment-system-backend"]
-	path = assessment-system-backend
-	url = https://github.com/babbiepeach/assessment-system-backend.git
+[submodule "plagiarism-backend"]
+	path = plagiarism-backend
+	url = https://github.com/Nsiikak/PlagiarismAI-backend
